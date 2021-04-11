@@ -60,5 +60,8 @@
   },
   "bugs": {
     "url": "https://github.com/devongovett/browserify-zlib/issues"
+  },
+  "react-native": {
+    "_stream_transform": "readable-stream/transform"
   }
 }
